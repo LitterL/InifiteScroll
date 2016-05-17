@@ -1,7 +1,7 @@
 # InifiteScroll
 无限轮播器
 
-![image](Demo.gif)
+![image](../Demo.gif)
 
 至于是如何使用的  请见:
 
