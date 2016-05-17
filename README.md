@@ -1,7 +1,7 @@
 # InifiteScroll
 无限轮播器
 
-![image](Demo.gif)
+![image](http://upload-images.jianshu.io/upload_images/1232706-d70b67d9eca1a861.gif?imageMogr2/auto-orient/strip)
 
 至于是如何使用的  请见:
 
